@@ -16,5 +16,5 @@ mycolorpy
 plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
-opencv-python
-opencv-python-headless
+opencv-python==4.10.0.84
+
